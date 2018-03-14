@@ -11,7 +11,7 @@ id | Nombre estudiante  | Equipo | Página personal
 5 | JUAN JOSE          |   |   
 6 | KEVIN              |   |   
 7 | CARMEN ESTHER      |   |   	
-8 | ALBERTO            |   |   
+8 | ALBERTO            |  KernelPanic | https://aff151.github.io/  
 9 | MARIA FRANCISCA    |   |   
 10 | MIGUEL             |   |  
 11 | MOHAMED            |   |  
